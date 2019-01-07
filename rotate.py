@@ -15,9 +15,9 @@ from glob import glob
 
 
 # Your device names go here if different.
-TOUCHSCREEN = 'ELAN0732:00 04F3:2493'
+TOUCHSCREEN = 'ELAN2514:00 04F3:2591'
 TOUCHPAD    = 'SynPS/2 Synaptics TouchPad'
-PEN         = 'ELAN0732:00 04F3:22E1 Pen Pen (0)'
+PEN         = 'ELAN2514:00 04F3:2591 Pen Pen (0)'
 
 disable_touchpads = True
 
